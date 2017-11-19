@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="dummy_data_activity_name">Inserting dummy data</string>
+    <string name="database_saving_error_log_msg">Error while saving</string>
+    <string name="database_saving_error_toast_msg">Errow while inserting habit</string>
+    <string name="database_success_saving_toast_msng">habbit added succesfully</string>
+    <string name="database_saving_success_log_msng">Habit Saved successfully! New row ID:</string>
+    <string name="database_rows_amount_log_msng">Number of rows in database table</string>
+</resources>
